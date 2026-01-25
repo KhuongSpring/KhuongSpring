@@ -16,3 +16,9 @@ I'm Devbegin and I am learning Java Spring technology. I am looking forward to f
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KhuongSpring&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhuongSpring/KhuongSpring/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhuongSpring/KhuongSpring/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/KhuongSpring/KhuongSpring/raw/output/github-contribution-grid-snake.svg">
+</picture>
