@@ -1,12 +1,14 @@
 name: Generate Snake
 
 on:
-  # Chạy tự động mỗi 24 giờ (vào lúc nửa đêm)
   schedule:
     - cron: "0 0 * * *" 
-  
-  # Cho phép chạy thủ công bất cứ lúc nào
   workflow_dispatch:
+
+# --- PHẦN QUAN TRỌNG MỚI THÊM ---
+permissions: 
+  contents: write
+# --------------------------------
 
 jobs:
   build:
@@ -19,10 +21,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Tên username của bạn (thay thế bằng username thật nếu cần, hoặc để github.repository_owner)
           github_user_name: ${{ github.repository_owner }}
-          
-          # Danh sách các file ảnh sẽ được tạo ra (bao gồm cả chế độ sáng và tối)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
