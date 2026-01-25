@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # Tên username của bạn (thay thế bằng username thật nếu cần, hoặc để github.repository_owner)
-          github_user_name: ${{ KhuongSpring }}
+          github_user_name: ${{ github.repository_owner }}
           
           # Danh sách các file ảnh sẽ được tạo ra (bao gồm cả chế độ sáng và tối)
           outputs: |
