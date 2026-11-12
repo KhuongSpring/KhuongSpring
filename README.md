@@ -18,8 +18,11 @@ I am a Java Developer with a strong focus on Backend. I enjoy competitive progra
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.shion.dev/api?username=KhuongSpring&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=KhuongSpring&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KhuongSpring&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img alt="GitHub metrics overview" src="https://github.com/KhuongSpring/KhuongSpring/raw/metrics-output/metrics.overview.svg" /><br/>
+<img alt="Languages" src="https://github.com/KhuongSpring/KhuongSpring/raw/metrics-output/metrics.languages.svg" /><br/>
+<img alt="Habits and lines" src="https://github.com/KhuongSpring/KhuongSpring/raw/metrics-output/metrics.habits.svg" /><br/>
+<img alt="Isometric calendar" src="https://github.com/KhuongSpring/KhuongSpring/raw/metrics-output/metrics.isocalendar.svg" /><br/>
+<img alt="Skyline" src="https://github.com/KhuongSpring/KhuongSpring/raw/metrics-output/metrics.skyline.svg" /><br/>
+![](https://streak-stats.demolab.com/?user=KhuongSpring&theme=dark&hide_border=false)
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhuongSpring/KhuongSpring/raw/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhuongSpring/KhuongSpring/raw/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://github.com/KhuongSpring/KhuongSpring/raw/output/github-contribution-grid-snake.svg?date=new"> </picture>
