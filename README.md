@@ -33,6 +33,7 @@
   <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIyaWw3NThoM2xybzBxdnZqcG16ZWZ5Mm44YzBwb2RwMDhtNGR6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UEJ6DQQp68LJSnyaBb/giphy.gif"  />
 </div>
 
+
 ###
 
 <div data-importer="stats" align="center">
@@ -41,6 +42,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <h5>Contribute Open Source Repositories</h5>
+  <a href="https://hub.xerj.org/contributors/KhuongSpring">
+    <img src="https://hub.xerj.org/contributors/KhuongSpring/badge.svg" alt="XERJ Corpus Hub contributor">
+  </a>
+</div>
 
 <picture data-importer="snake">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhuongSpring/KhuongSpring/raw/output/github-contribution-grid-snake-dark.svg" />
