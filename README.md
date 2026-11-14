@@ -45,7 +45,8 @@
     <td align="left" valign="middle">
       <a href="https://github.com/HaUI-ImplSolution/DX-OS/stargazers"><img src="https://img.shields.io/github/stars/HaUI-ImplSolution/DX-OS?style=flat&logo=github&labelColor=11120f&color=eab308" height="28" alt="DX-OS stars" /></a><br />
       <a href="https://github.com/HaUI-ImplSolution/DX-OS/pulls?q=is%3Apr+is%3Amerged+author%3AKhuongSpring"><img src="https://img.shields.io/github/issues-search?query=repo%3AHaUI-ImplSolution%2FDX-OS%20is%3Apr%20is%3Amerged%20author%3AKhuongSpring&label=merged%20PRs&style=flat&labelColor=11120f&color=2ea44f" height="28" alt="Merged PRs by KhuongSpring" /></a><br />
-      <a href="https://github.com/HaUI-ImplSolution/DX-OS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HaUI-ImplSolution/DX-OS?style=flat&labelColor=11120f&color=22c55e" height="28" alt="DX-OS license" /></a>
+      <a href="https://github.com/HaUI-ImplSolution/DX-OS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HaUI-ImplSolution/DX-OS?style=flat&labelColor=11120f&color=22c55e" height="28" alt="DX-OS license" /></a><br />
+      <a href="https://www.bestpractices.dev/projects/16682"><img src="https://www.bestpractices.dev/projects/16682/badge" height="28" alt="DX-OS OpenSSF Best Practice" ></a>
     </td>
   </tr>
 </table>
