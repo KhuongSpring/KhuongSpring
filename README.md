@@ -1,5 +1,4 @@
-<h1 data-importer="text" align="center">Hi 👋 I'm Khuong</h1>
-<h2 data-importer="text" align="center">Software Engineer</h2>
+<h1 data-importer="text" align="center">Hi 👋 I'm Khuong, I'm a Software Engineer</h1>
 
 ###
 
